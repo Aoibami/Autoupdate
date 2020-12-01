@@ -1,7 +1,7 @@
 
-<Version: 1.0.0>
+<Version: 1.00>
 <End of Version>
 
-<Version: 1.0.1>
+<Version: 1.01>
 /data/Map004.json https://raw.githubusercontent.com/Aoibami/Autoupdate/main/Map004.json
 <End of Version>
