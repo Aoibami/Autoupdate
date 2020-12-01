@@ -3,5 +3,5 @@
 <End of Version>
 
 <Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
+/data/Map004.json https://raw.githubusercontent.com/Aoibami/Autoupdate/main/Map004.json
 <End of Version>
