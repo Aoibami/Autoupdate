@@ -7,5 +7,5 @@
 <End of Version>
 
 <Version: 1.02>
-/data/Map004.json https://raw.githubusercontent.com/Aoibami/Autoupdate/main/Map004.json
+/img/DECRYPTED.txt https://raw.githubusercontent.com/Aoibami/Autoupdate/main/ENCRYPTED.txt
 <End of Version>
